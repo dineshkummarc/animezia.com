@@ -21,7 +21,6 @@
 </p>
 
 <h2> Table of Contents </h2>
-
 - [Note](#note)
 - [Features](#features)
 - [Requirements](#requirements)
